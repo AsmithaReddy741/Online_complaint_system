@@ -31,8 +31,7 @@ const ChatBox = ({ complaintId }) => {
     fetchHistory();
 
     // 2. Establish Socket connection
-    const newSocket = io('https://online-complaint-system-3.onrender.com
-', {
+    const newSocket = io('https://online-complaint-system-3.onrender.com', {
       query: { token },
     });
 
