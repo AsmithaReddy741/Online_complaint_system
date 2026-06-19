@@ -54,8 +54,8 @@ frontend/
 
 git clone https://github.com/AsmithaReddy741/Online_complaint_system.git
 
-##live url
-elegant-brioche-44c11a.netlify.app
+#live url
+https://elegant-brioche-44c11a.netlify.app
 
 ### Backend Setup
 
